@@ -1,0 +1,38 @@
+.container{
+    background-color:azure;
+    border: black 1px solid;
+    width: 50%;
+    margin-left: 398px;
+    margin-top: 20px;
+
+}
+
+.container1{
+    margin-top: 10px;
+    background-color:azure;
+    width: 50%;
+    margin-left: 400px;
+    border: black 1px solid;
+
+}
+.col-6{
+    margin:auto;
+}
+ 
+#c2{
+    margin-bottom: 4px;
+}
+
+#passwordHelpBlock{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+#log1{
+    margin-bottom: 15px;
+    margin-left: 25%;
+}
+#reg1{
+    margin-bottom: 15px;
+    padding-right: 15%;
+}
